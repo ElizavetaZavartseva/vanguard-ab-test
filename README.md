@@ -1,4 +1,4 @@
-# vanguard-ab-tes
+# vanguard-ab-test
 
 Link for slides presentation: https://www.canva.com/design/DAGL3DHDaCQ/YYTuZBkcim33DiEsjOnlmQ/edit?utm_content=DAGL3DHDaCQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
 
